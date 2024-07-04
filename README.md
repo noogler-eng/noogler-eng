@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I am noogler~eng
+- 🔭 I’m currently working on college projects
+- 🌱 I’m currently learning backend
+- 👯 I’m looking for internship
+- 🤔 I’m looking for help with my skills
+- 💬 Ask me about anything
+- 📫 How to reach me: https://x.com/SharadPoddar11
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Life always makes a way for you
 
 <!--
 **noogler-eng/noogler-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
