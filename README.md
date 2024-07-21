@@ -1,4 +1,5 @@
 ## Hi there 👋 I am noogler~eng
+- ❤️ this is also me https://github.com/shared460, this contains all my web3 work.
 - 🔭 I’m currently working on college projects
 - 🌱 I’m currently learning backend
 - 👯 I’m looking for internship
