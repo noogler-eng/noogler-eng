@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 [![roadmap.sh](https://roadmap.sh/card/wide/66867ac59fbd874667e03ad6?variant=dark)](https://roadmap.sh)
 
 my work become live at:
-  - https://portfolio-kappa-bice-82.vercel.app/
-  - 
+  - https://portfolio-kappa-bice-82.vercel.app/ - portfolio
+  - https://adv-singer.onrender.com - spotify backend
