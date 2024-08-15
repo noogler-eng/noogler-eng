@@ -30,3 +30,4 @@ my work become live at:
   - https://portfolio-kappa-bice-82.vercel.app/ - portfolio
   - https://listen-anywhere.vercel.app - listen-it
   - https://adv-singer.onrender.com - spotify backend
+  - https://ping-counter.vercel.app/ - ping counter based on solana
