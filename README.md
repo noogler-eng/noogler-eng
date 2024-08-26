@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 my work become live at:
   - https://portfolio-kappa-bice-82.vercel.app/ - portfolio
+  - https://frontend-paymee.vercel.app/ - payme
   - https://listen-anywhere.vercel.app - listen-it
   - https://adv-singer.onrender.com - spotify backend
   - https://artist-finder-bice.vercel.app/ - artist finder
