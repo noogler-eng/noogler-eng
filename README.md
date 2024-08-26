@@ -35,6 +35,7 @@ my work become live at:
   - https://adv-medium.vercel.app/ - scalable serverless blog on cloudflare with hono as a framework
   - https://my-blog.sharadpoddar1001.workers.dev/ - cloudflare blog backend
   - https://let-s-connect-acm83ymom-0xsharads-projects.vercel.app/ - let's connect
+  - https://epic-nfts-ten.vercel.app/ - epic nft's
   - https://listen-anywhere.vercel.app - listen-it
   - https://adv-singer.onrender.com - spotify backend
   - https://artist-finder-bice.vercel.app/ - artist finder
