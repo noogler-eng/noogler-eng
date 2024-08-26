@@ -41,3 +41,11 @@ my work become live at:
   - https://listen-anywhere.vercel.app - listen-it
   - https://adv-singer.onrender.com - spotify backend
   - https://ping-counter.vercel.app/ - ping counter based on solana
+
+- complete crypto zombies
+- deployed many smart contracts using chainlinks
+- selected for buildspace season 5
+- learning protocols like uniswap and decentralised exchanges
+- CTF game built in hackathon - https://www.youtube.com/watch?v=KPgojUYCurg
+- deployed smart contracts for web3 companies on mainnet
+  
