@@ -32,6 +32,7 @@ my work become live at:
   - https://decn-adv-voting.vercel.app/ - equality-protocol
   - https://backend-paymee.onrender.com/ - payme backend
   - https://amoy.polygonscan.com/address/0x62c8586604b73f206449c7e951b2ebfc169738c2 - smart contract paygate
+  - https://adv-medium.vercel.app/ - scalable serverless blog on cloudflare with hono as a framework
   - https://let-s-connect-acm83ymom-0xsharads-projects.vercel.app/ - let's connect
   - https://listen-anywhere.vercel.app - listen-it
   - https://adv-singer.onrender.com - spotify backend
