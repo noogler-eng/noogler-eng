@@ -1,5 +1,4 @@
 ## Hi there 👋 I am sharad poddar
-- ❤️ this is also me https://github.com/shared460, this contains all my web3 work.
 - 🔭 I’m currently working on college projects
 - 🌱 I’m currently learning backend
 - 👯 I’m looking for internship
@@ -23,24 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66867ac59fbd874667e03ad6?variant=dark)](https://roadmap.sh)
-
-my work become live at:
-  - https://portfolio-kappa-bice-82.vercel.app/ - portfolio
-  - https://frontend-paymee.vercel.app/ - payme
-  - https://decn-adv-voting.vercel.app/ - equality-protocol
-  - https://backend-paymee.onrender.com/ - payme backend
-  - https://artist-finder-bice.vercel.app/ - artist finder
-  - https://amoy.polygonscan.com/address/0x62c8586604b73f206449c7e951b2ebfc169738c2 - smart contract paygate
-  - https://adv-medium.vercel.app/ - scalable serverless blog on cloudflare with hono as a framework
-  - https://my-blog.sharadpoddar1001.workers.dev/ - cloudflare blog backend
-  - https://let-s-connect-acm83ymom-0xsharads-projects.vercel.app/ - let's connect
-  - https://epic-nfts-ten.vercel.app/ - epic nft's
-  - https://coffee-dapp-nine.vercel.app/ - buy-me-coffee
-  - https://listen-anywhere.vercel.app - listen-it
-  - https://adv-singer.onrender.com - spotify backend
-  - https://ping-counter.vercel.app/ - ping counter based on solana
 
 - complete crypto zombies
 - deployed many smart contracts using chainlinks
